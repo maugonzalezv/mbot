@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.log
+
+# DB / volumes
+data/
+pgdata/
+n8n_data/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Node (si luego usas)
+node_modules/
+dist/
